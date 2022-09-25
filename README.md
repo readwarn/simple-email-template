@@ -1,5 +1,7 @@
 ## A simple email template
 
+[Live Link](https://simple-email-template.vercel.app/inbox)
+
 ### Previews
 
 ![image](https://user-images.githubusercontent.com/31967020/192126336-dc165334-b518-4dff-b39d-c0875e347338.png)
