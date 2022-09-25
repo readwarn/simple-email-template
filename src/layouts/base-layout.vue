@@ -49,6 +49,15 @@ export default {
       hideSidebar: true,
     };
   },
+
+  watch: {
+    $route: {
+      handler(route) {
+        if (route.path == "/") this.$router.replace("/inbox");
+      },
+      immediate: true,
+    },
+  },
 };
 </script>
 
